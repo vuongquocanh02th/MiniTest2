@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="752868ef-0e8c-434c-985c-442dff604391" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-test-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhanVienFullTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhanVienPartTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuanLyNhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhanVienFullTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FullTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhanVienPartTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PartTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuanLyNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vuongquocanh02th&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vuongquocanh02th/MiniTest2.git&quot;,
+    &quot;accountId&quot;: &quot;26c54bc9-6d5e-4d8b-aa3a-48edfb02c819&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -72,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1731398512137</updated>
       <workItem from="1731398513022" duration="7633000" />
-      <workItem from="1731417575563" duration="4934000" />
+      <workItem from="1731417575563" duration="5730000" />
+      <workItem from="1731459502409" duration="7357000" />
     </task>
     <servers />
   </component>
